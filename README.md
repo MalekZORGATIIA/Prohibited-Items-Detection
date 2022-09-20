@@ -4,7 +4,7 @@ Airports keep striving to automate technologies and detection processes to impro
 Besides, from detecting and classifying objects such prohibited items may become increasingly important in airport security. 
 
 This project detects and classifies prohibited Items in x-ray images.
-It showcases the details of an AI algorithm based on the CNN model, which is  explained here.
+It showcases the details of an AI algorithm based on the CNN model,the architecture is explained here.
 
 ![alt text](cnn.png)
 
