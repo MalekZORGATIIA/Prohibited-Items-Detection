@@ -1,4 +1,4 @@
-# Prohibited-Items-Detection
+# Prohibited Items Detection
 
 Airports keep striving to automate technologies and detection processes to improve performance while reducing scanning and image processing times and human error, and using artificial intelligence algorithms that do not have human weaknesses could be a valuable assistant to human operators and the first step toward fully automating airport security checkpoints.
 Besides, from detecting and classifying objects such prohibited items may become increasingly important in airport security. 
