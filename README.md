@@ -5,9 +5,11 @@ Besides, from detecting and classifying objects such prohibited items may become
 
 This project detects and classifies prohibited Items in x-ray images.
 It showcases the details of an AI algorithm based on the CNN model, which is  explained here.
+
 ![alt text](cnn.png)
 
 After training our model, our test provides 70% accuracy with the test dataset,and this x-ray image serves as an illustration of prohibited object detection.
+
 ![alt text](result.png)
 
 This model can be improved and optimized to produce more accurate results. 
